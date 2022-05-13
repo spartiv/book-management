@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bookManagement:jar">
+    <output-path>$USER_HOME$/bookMap</output-path>
+    <root id="archive" name="bookManagement.jar">
+      <element id="module-output" name="bookManagement" />
+    </root>
+  </artifact>
+</component>
